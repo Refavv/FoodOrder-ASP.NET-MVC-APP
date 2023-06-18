@@ -1,0 +1,28 @@
+Created a new category: dsadsada
+Created a new product type: dsadsads
+Created/edited product: dsadasda
+Deleted category: test1
+Deleted category: test2
+Deleted category: test3
+Deleted category: test4
+Deleted category: Pizza
+Deleted category: Sushi
+Deleted category: Dessert
+Deleted category: dsadsada
+Deleted product type: PizzaHut
+Deleted product type: JapaneSushi
+Deleted product type: Radius
+Deleted product type: dsadsads
+Created a new category: Meat
+Created a new category: Soup
+Created a new category: Dessert 
+Edited category: Dessert
+Created a new product type: 1Bite2Go
+Created a new product type: Pizza Hut
+Deleted product type: Pizza Hut
+Created a new product type: KFC
+Created a new product type: von
+Created/edited product: Steak
+Created/edited product: Tom Yum
+Edited product type: Dunkin' Donuts
+Created/edited product: Strawberry donut
